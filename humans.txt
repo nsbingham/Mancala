@@ -3,7 +3,7 @@
 
 
 /* TEAM */
-  <your title>: <your name>
+  Developer: Nathan
   Site: 
   Twitter: 
   Location: 
